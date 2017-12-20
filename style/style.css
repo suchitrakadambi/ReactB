@@ -1,0 +1,13 @@
+.myheading{
+text-align: center;
+}
+.mycontainer{
+    margin:10%;
+}
+.myinput{
+    outline: none;   
+    border: none;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
